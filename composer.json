@@ -1,0 +1,13 @@
+{
+  "require": {
+    "noahbuscher/macaw": "dev-master",
+    "illuminate/database": "*",
+    "phpunit/php-text-template": "^1.2"
+  },
+  "autoload": {
+    "classmap": [
+      "controllers",
+      "models"
+    ]
+  }
+}
